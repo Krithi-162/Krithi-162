@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me ✨:
 🎓 Computer Science & Engineering student at AJIET with a strong interest in tech innovation.<br>🚀 Passionate about creating efficient, maintainable code and exploring emerging tech.<br>💻 Full Stack Developer | Building scalable, high-performance applications.<br><br>
 
 
