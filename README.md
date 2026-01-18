@@ -1,5 +1,5 @@
 # ✨ About Me ✨
- 🎓 Computer Science & Engineering student at AJIET with a strong interest in tech innovation.<br>📖i am currently pursuing in 6th sem <br> 🚀 Passionate about creating efficient, maintainable code and exploring emerging tech.<br>💻 Full Stack Developer | Building scalable, high-performance applications.<br><br>
+ 🎓 Computer Science & Engineering student at AJIET with a strong interest in tech innovation.<br>📖i am currently pursuing in 6th sem <br> 🚀 Passionate about creating efficient, maintainable code and exploring emerging tech.<br>💻 I am interested in gaining practical experience and contributing to real-world projects<br><br>
 
 
 ## 🌐 Socials:
