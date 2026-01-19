@@ -2,7 +2,7 @@
  🎓 Computer Science & Engineering student at AJIET .<br>📖i am currently pursuing in 6th sem <br> 🚀 Passionate about creating efficient, maintainable code and exploring emerging tech.<br>💻 I am interested in gaining practical experience and contributing to real-world projects<br><br>
 
 
-## 🌐 Socials:
+## ⚡ Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krithi-kulal-682509295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krithikulal17@gmail.com) 
 
 # 💻 Tech Stack:
