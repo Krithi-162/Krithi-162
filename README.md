@@ -1,6 +1,6 @@
 
 ## 👋 Hey there I am Krithi
- 🎓 CSE student at AJIET .<br>📖i am currently pursuing in 6th sem <br> 🚀 Passionate about creating efficient, maintainable code and exploring emerging tech.<br>💻 I am interested in gaining practical experience and contributing to real-world projects<br><br>
+ 🎓 CSE student at AJIET .<br>📖i am currently pursuing in 6th sem <br> 🚀 I am a continuous Learner <br>💻 I am interested in gaining practical experience and contributing to real-world projects<br><br>
 
 
 ## ⚡ Socials:
