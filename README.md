@@ -1,6 +1,10 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 ## 👋 Hey there I am Krithi!
  🎓 CSE student at AJIET ,VTU university<br>📖i am currently pursuing in 6th sem <br> 🚀 I am a continuous Learner <br>💻 I am interested in gaining practical experience and contributing to real-world projects<br><br>
 
