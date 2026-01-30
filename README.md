@@ -6,7 +6,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Krithi-162.Krithi-162&"  />
 </div>
 
-#                                 👋 Hey there I am Krithi!
+# &nbsp👋 Hey there I am Krithi!
  🎓 CSE student at AJIET ,VTU university<br>📖i am currently pursuing in 6th sem <br> 🚀 I am a continuous Learner <br>💻 I am interested in gaining practical experience and contributing to real-world projects<br><br>
 
 
