@@ -7,7 +7,7 @@
 </div>
 
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👋 Hey there! I am Krithi
- 🎓 CSE student at AJIET ,VTU university<br>📖i am currently pursuing in 6th sem <br> 🚀 I am a Learner <br>💻 I am interested in gaining practical experience and contributing to real-world projects<br>
+ 🎓 CSE student at AJIET ,VTU university<br>📖i am currently pursuing in 6th sem <br> 🚀 I am Learning continuously <br>💻 I am interested in gaining practical experience and contributing to real-world projects<br>
 
 
 ## ⚡ Socials:
