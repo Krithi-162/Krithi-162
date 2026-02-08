@@ -7,8 +7,6 @@
 </div>
 
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👋 Hey there! I am Krithi
-📖I am currently pursuing in 6th sem CSE.<br> 🚀 I am continuous learner.<br>💻 I am interested in gaining practical experience and contributing to real-world projects.<br>
-I enjoy learning new technologies, building real-world projects, and improving my problem-solving skills through coding.
 
 ## ⚡ Socials:
 &nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krithi-kulal-682509295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
