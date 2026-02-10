@@ -8,6 +8,12 @@
 
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👋 Hey there! I am Krithi
 
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Krithi-162&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Krithi-162&theme=github_dark&hide_border=false)<br/>
