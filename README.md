@@ -32,7 +32,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krithi-162&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krithi-162/Krithi-162/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krithi-162/Krithi-162/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Krithi-162/Krithi-162/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
