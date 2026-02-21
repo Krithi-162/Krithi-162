@@ -8,7 +8,8 @@
 
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👋 Hey there! I am Krithi
 
-### A passionate Computer Science Engineering student and aspiring Full-Stack Developer.
+#### A passionate Computer Science Engineering student and aspiring Full-Stack Developer.
+#### Building projects. Learning daily. Growing consistently.  
 
 ###
 
