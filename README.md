@@ -7,7 +7,7 @@
 </div>
 
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👋 Hey there! I am Krithi
-Passionate about Web Development & Problem Solving 🚀 Building real-world projects to become a skilled Full Stack Developer 🔥 Currently working on application-based major projects
+Passionate about Web Development & Problem Solving <br> Building real-world projects to become a skilled Full Stack Developer <br> Currently working on application-based major projects
 
 ###
 
