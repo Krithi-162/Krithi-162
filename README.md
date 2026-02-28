@@ -12,8 +12,8 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
- <div align="left">
+                                                                      <h3 align="left">🛠 Language and tools</h3>
+                                                                       <div align="left">
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
