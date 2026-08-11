@@ -30,7 +30,7 @@
 
 ### 📊 GitHub Stats:
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krithi-162&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krithi-162&show_icons=true&theme=github_dark&hide_border=false)
 
 <br/>
 
@@ -38,10 +38,7 @@
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krithi-162&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krithi-162&theme=github_dark&hide_border=false&layout=compact)
 
 
 
